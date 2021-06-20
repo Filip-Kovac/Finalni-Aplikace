@@ -1,1 +1,2 @@
-# Finalni-Aplikace
+Jmeno - Jmeno.Prijemni
+Heslo - Heslo123

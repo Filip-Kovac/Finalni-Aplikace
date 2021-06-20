@@ -1,0 +1,19 @@
+C:\Users\Filip\source\repos\WPF- Zavěrečná práce\WPF- Zavěrečná práce\bin\Debug\WPF- Zavěrečná práce.exe.config
+C:\Users\Filip\source\repos\WPF- Zavěrečná práce\WPF- Zavěrečná práce\bin\Debug\WPF- Zavěrečná práce.exe
+C:\Users\Filip\source\repos\WPF- Zavěrečná práce\WPF- Zavěrečná práce\bin\Debug\WPF- Zavěrečná práce.pdb
+C:\Users\Filip\source\repos\WPF- Zavěrečná práce\WPF- Zavěrečná práce\obj\Debug\WPF- Zavěrečná práce.csprojAssemblyReference.cache
+C:\Users\Filip\source\repos\WPF- Zavěrečná práce\WPF- Zavěrečná práce\obj\Debug\MainWindow.g.cs
+C:\Users\Filip\source\repos\WPF- Zavěrečná práce\WPF- Zavěrečná práce\obj\Debug\App.g.cs
+C:\Users\Filip\source\repos\WPF- Zavěrečná práce\WPF- Zavěrečná práce\obj\Debug\WPF- Zavěrečná práce_MarkupCompile.cache
+C:\Users\Filip\source\repos\WPF- Zavěrečná práce\WPF- Zavěrečná práce\obj\Debug\WPF- Zavěrečná práce_MarkupCompile.lref
+C:\Users\Filip\source\repos\WPF- Zavěrečná práce\WPF- Zavěrečná práce\obj\Debug\MainWindow.baml
+C:\Users\Filip\source\repos\WPF- Zavěrečná práce\WPF- Zavěrečná práce\obj\Debug\WPF- Zavěrečná práce.g.resources
+C:\Users\Filip\source\repos\WPF- Zavěrečná práce\WPF- Zavěrečná práce\obj\Debug\WPF__Zavěrečná_práce.Properties.Resources.resources
+C:\Users\Filip\source\repos\WPF- Zavěrečná práce\WPF- Zavěrečná práce\obj\Debug\WPF- Zavěrečná práce.csproj.GenerateResource.cache
+C:\Users\Filip\source\repos\WPF- Zavěrečná práce\WPF- Zavěrečná práce\obj\Debug\WPF- Zavěrečná práce.csproj.CoreCompileInputs.cache
+C:\Users\Filip\source\repos\WPF- Zavěrečná práce\WPF- Zavěrečná práce\obj\Debug\WPF- Zavěrečná práce.exe
+C:\Users\Filip\source\repos\WPF- Zavěrečná práce\WPF- Zavěrečná práce\obj\Debug\WPF- Zavěrečná práce.pdb
+C:\Users\Filip\source\repos\WPF- Zavěrečná práce\WPF- Zavěrečná práce\obj\Debug\AddTask.g.cs
+C:\Users\Filip\source\repos\WPF- Zavěrečná práce\WPF- Zavěrečná práce\obj\Debug\To-Do-List.g.cs
+C:\Users\Filip\source\repos\WPF- Zavěrečná práce\WPF- Zavěrečná práce\obj\Debug\AddTask.baml
+C:\Users\Filip\source\repos\WPF- Zavěrečná práce\WPF- Zavěrečná práce\obj\Debug\To-Do-List.baml
